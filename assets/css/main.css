@@ -1880,6 +1880,10 @@
 		margin-top: -0.6em;
 	}
 
+	#header .nav-font {
+		font-size: 1.3em;
+	}
+
 /* Flex */
 
 	.flex {
