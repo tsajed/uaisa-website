@@ -2937,7 +2937,7 @@
 /* Banner */
 
 	#banner {
-		padding: 12em 0 10em 0;
+		padding: 12em 6em 10em 0;
 		background-image: url('../../images/banner.jpg');
 		background-size: cover;
 		background-position: top;
@@ -2957,8 +2957,7 @@
 		}
 
 		#banner p {
-			font-size: 1em;
-			color: rgba(255, 255, 255, 0.55);
+			font-size: 2.5em;
 			margin-bottom: 1.75em;
 		}
 
